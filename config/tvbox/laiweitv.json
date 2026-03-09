@@ -1,0 +1,26 @@
+{
+    "wallpaper": "",
+    "spider": "",
+    "lives": [
+        {
+            "name": "赖伟的电视直播",
+            "type": 0,
+            "url": "https://raw.githubusercontent.com/scmtlw/Codex_fileStore/main/config/tvbox/%23https_live.fanmingming.cn_tv_m3u_ipv6.m3u.txt",
+            "playerType": 1,
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        }
+    ],
+    "sites": [
+        {
+            "key": "LiveOnly",
+            "name": "📺 赖伟自制，仅有电视台直播",
+            "type": 3,
+            "api": "",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
+        },
+        
+    ]
+}

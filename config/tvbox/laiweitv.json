@@ -7,7 +7,7 @@
             "type": 0,
             "url": "https://raw.githubusercontent.com/scmtlw/Codex_fileStore/main/config/tvbox/%23https_live.fanmingming.cn_tv_m3u_ipv6.m3u.txt",
             "playerType": 1,
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+            "epg": ""
         }
     ],
     "sites": [
